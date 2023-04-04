@@ -11,5 +11,5 @@ where designation = (
   from Employee
   where empid = 169
 ) 
-/*time*/
+/*time to the pass*/
 
