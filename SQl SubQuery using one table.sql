@@ -1,5 +1,4 @@
-
-
+/* Basic sub query concept using two tables*/
 use lpu
 create table employees(employee_id int,first_name varchar(30),Last_name varchar(30),email varchar(35),phone_number int,hire_date date,
 job_id int,salary int,manager_id int,department_id int);
